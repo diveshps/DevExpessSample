@@ -12,26 +12,26 @@ export class Product {
 }
 
 let simpleProducts: string[] = [
-  "My Product",
-  "P1",
-  "P22",
-  "SuperLED 50",
-  "SuperLED 42",
-  "SuperLCD 55",
-  "SuperLCD 42",
-  "SuperPlasma 65",
-  "SuperLCD 70",
-  "Projector Plus",
-  "Projector PlusHT",
-  "ExcelRemote IR",
-  "ExcelRemote BT",
-  "ExcelRemote IP"
+  "One Connects",
+  "Little resellers",
+  "One Connects reseller",
+  "Ibrahim Services",
+  "Compror Pty Ltd",
+  "Divesh Enterprise",
+  "Raroan",
+  "Ericsson",
+  "Bengal Spicies",
+  "Ravi Consulting 1",
+  "Test Plumbers",
+  "CitywideFM",
+  "Brisbane Lawn",
+  "Johns Security"
 ];
 
 let products: Product[] = [
   {
     ID: 1,
-    Name: "HD Video Player",
+    Name: "One Connects",
     Price: 330,
     Current_Inventory: 225,
     Backorder: 0,
@@ -42,7 +42,7 @@ let products: Product[] = [
   },
   {
     ID: 2,
-    Name: "SuperHD Player",
+    Name: "Little resellers",
     Price: 400,
     Current_Inventory: 150,
     Backorder: 0,
@@ -53,7 +53,7 @@ let products: Product[] = [
   },
   {
     ID: 3,
-    Name: "SuperPlasma 50",
+    Name: "One Connects reseller",
     Price: 2400,
     Current_Inventory: 0,
     Backorder: 0,
@@ -64,7 +64,7 @@ let products: Product[] = [
   },
   {
     ID: 4,
-    Name: "SuperLED 50",
+    Name: "Ibrahim Services",
     Price: 1600,
     Current_Inventory: 77,
     Backorder: 0,
@@ -75,7 +75,7 @@ let products: Product[] = [
   },
   {
     ID: 5,
-    Name: "SuperLED 42",
+    Name: "Compror Pty Ltd",
     Price: 1450,
     Current_Inventory: 445,
     Backorder: 0,
@@ -86,7 +86,7 @@ let products: Product[] = [
   },
   {
     ID: 6,
-    Name: "SuperLCD 55",
+    Name: "Divesh Enterprise",
     Price: 1350,
     Current_Inventory: 345,
     Backorder: 0,
@@ -97,7 +97,7 @@ let products: Product[] = [
   },
   {
     ID: 7,
-    Name: "SuperLCD 42",
+    Name: "Raroan",
     Price: 1200,
     Current_Inventory: 210,
     Backorder: 0,
@@ -108,7 +108,7 @@ let products: Product[] = [
   },
   {
     ID: 8,
-    Name: "SuperPlasma 65",
+    Name: "Ericsson",
     Price: 3500,
     Current_Inventory: 0,
     Backorder: 0,
