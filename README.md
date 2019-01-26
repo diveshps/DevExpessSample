@@ -1,2 +1,0 @@
-# DevExpessSample
-Created with CodeSandbox
